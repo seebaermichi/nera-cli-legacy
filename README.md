@@ -1,4 +1,8 @@
 # Nera Cli
+
+> [!WARNING]
+> **Deprecated and archived.** This is the old `nera-cli` (it scaffolds a site by cloning the generator) and is no longer maintained. Use `npx @nera-static/nera new <name>` instead.
+> Current Nera: [nera.js.org](https://nera.js.org) · [`@nera-static/nera`](https://www.npmjs.com/package/@nera-static/nera) · [seebaermichi/nera](https://github.com/seebaermichi/nera).
 Nera cli is a tool to initialize and work on projects which are build with  
 light weight static site generator [Nera](https://github.com/seebaermichi/nera).
 
